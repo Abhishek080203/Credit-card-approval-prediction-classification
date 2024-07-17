@@ -1,4 +1,4 @@
-![banner](assets/Credit_card_approval_banner.png)
+![banner](Credit_card_approval_banner.png)
 
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
@@ -66,15 +66,15 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 
 Correlation between the features.
 
-![heatmap](assets/heatmap.png)
+![heatmap](heatmap.png)
 
 Confusion matrix of gradient boosting classifier.
 
-![Confusion matrix](assets/confusion_matrix.png)
+![Confusion matrix](confusion_matrix.png)
 
 ROC curve of gradient boosting classifier.
 
-![ROC curve](assets/roc.png)
+![ROC curve](roc.png)
 
 Top 3 models (with default parameters)
 
@@ -177,7 +177,7 @@ To deploy this project on streamlit share, follow these steps:
 
 ## App deployed on Streamlit
 
-![Streamlit GIF](assets/gif_streamlit.gif)
+![Streamlit GIF](gif_streamlit.gif)
 
 Video to gif [tool](https://ezgif.com/)
 ## Repository structure
