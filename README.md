@@ -2,12 +2,12 @@
 
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
-![GitHub last commit](https://img.shields.io/github/last-commit/semasuka/Credit-card-approval-prediction-classification)
-![GitHub repo size](https://img.shields.io/github/repo-size/semasuka/Credit-card-approval-prediction-classification)
+![GitHub last commit](https://img.shields.io/github/last-commit/Abhishek080203/Credit-card-approval-prediction-classification)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhishek080203/Credit-card-approval-prediction-classification)
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Binary%20Classification-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CfV6yEsHBjFiJbTKwY72k2g4AvszcF5R)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/semasuka/credit-card-approval-prediction-classification/main/cc_approval_pred.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Abhishek080203/credit-card-approval-prediction-classification/main/cc_approval_pred.py)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Badge [source](https://shields.io/)
@@ -17,7 +17,7 @@ Badge [source](https://shields.io/)
 
 ## Authors
 
-- [@semasuka](https://www.github.com/semasuka)
+- [@Abhishek](https://github.com/Abhishek080203)
 
 ## Table of Contents
 
@@ -125,7 +125,7 @@ git init
 Clone the project
 
 ```bash
-git clone https://github.com/semasuka/Credit-card-approval-prediction-classification.git
+git clone https://github.com/Abhishek080203/Credit-card-approval-prediction-classification.git
 ```
 
 enter the project directory
@@ -161,7 +161,7 @@ If you are having issue with streamlit, please follow [this tutorial on how to s
 
 ## Explore the notebook
 
-To explore the notebook file [here](https://nbviewer.org/github/semasuka/Credit-card-approval-prediction-classification/blob/main/Credit_card_approval_prediction.ipynb)
+To explore the notebook file [here](https://nbviewer.org/github/Abhishek080203/Credit-card-approval-prediction-classification/blob/main/Credit_card_approval_prediction.ipynb)
 
 ## Deployment on streamlit
 
@@ -226,9 +226,7 @@ Video to gif [tool](https://ezgif.com/)
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
 
-## Blog post
 
-The accompanying blog post for this project can be found [here](https://semasuka.github.io/blog/2022/10/12/credit-card-approval-prediction.html)
 
 ## Project featuring
 
@@ -241,7 +239,7 @@ This project was featured on [Luke Barousse Youtube Channel](https://www.youtube
 
 MIT License
 
-Copyright (c) 2022 Stern Semasuka
+Copyright (c) 2024 Abhishek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
